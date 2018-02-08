@@ -51,8 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\New Folder\Scripts\MouseLook.cs" />
-     <Compile Include="Assets\New Folder\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\New Folder\Scripts\PlayerLook.cs" />
+     <Compile Include="Assets\New Folder\Scripts\PlayerMove.cs" />
+     <Compile Include="Assets\New Folder\Scripts\trash\MouseLook.cs" />
+     <Compile Include="Assets\New Folder\Scripts\trash\PlayerController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
