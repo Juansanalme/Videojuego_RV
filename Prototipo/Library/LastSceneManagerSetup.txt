@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/New Folder/Scenes/Test.unity
+- path: Assets/Escenas/ProbuilderTest.unity
   isLoaded: 1
   isActive: 1
