@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
-	private Rigidbody rb;
+	//private Rigidbody rb;
 
 	public float speedH = 2.0f;
 
@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour {
 
 	void Start ()
 	{
-		rb = GetComponent<Rigidbody>();
+		//rb = GetComponent<Rigidbody>();
 		Cursor.lockState = CursorLockMode.Locked;
 	}
 
