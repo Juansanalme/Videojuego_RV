@@ -154,7 +154,9 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\LookWalkVR.cs" />
      <Compile Include="Assets\Mazmorra\Scripts\HeadRotation.cs" />
+     <Compile Include="Assets\Mazmorra\Scripts\LookWalk.cs" />
      <Compile Include="Assets\Mazmorra\Scripts\PlayerLook.cs" />
      <Compile Include="Assets\Mazmorra\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Mazmorra\Scripts\trash\MouseLook.cs" />
