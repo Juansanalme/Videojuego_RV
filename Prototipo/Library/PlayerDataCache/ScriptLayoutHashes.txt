@@ -1,4 +1,4 @@
-Android
+WindowsStandalone
 SceneListBegin?
 Assets/Escenas/Escena02.unity
 SceneListEnd?
@@ -121,6 +121,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 36cd6f8d7e08dc2582ba6f6ba39df992 Assembly-CSharp.dll:GoogleVR.VideoDemo.SwitchVideos
 846f17d2b1fd8b405b1f43993d8e697d Assembly-CSharp.dll:.GvrKeyboard
+39a34fb1c1a333de9bb10ea73433916e Assembly-CSharp.dll:.LookWalkVR
 5adc88bf7d1c618314bc1a0f0b3d6c47 Assembly-CSharp.dll:.GvrAudioSoundfield
 bb0ad8cb9cb04ab265277fa3ffe5f4ff Assembly-CSharp.dll:GoogleVR.VideoDemo.ToggleAction
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
@@ -179,6 +180,7 @@ ec7197ab43ffb42a7321b609332a9861 Assembly-CSharp.dll:.GvrControllerVisualManager
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 1f3a68064dbfa3445b5941d1d23a8ce5 Assembly-CSharp.dll:.GvrPointerPhysicsRaycaster
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrHeadset
+39a34fb1c1a333de9bb10ea73433916e Assembly-CSharp.dll:.LookWalk
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrRecenterOnlyController
 82c6192ece8decc1abce9eae5bc44e95 Assembly-CSharp.dll:.HighlightNearestFace
 773659ee139465de815012b250038305 Assembly-CSharp.dll:GoogleVR.VideoDemo.VideoPlayerReference
