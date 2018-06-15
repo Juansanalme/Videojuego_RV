@@ -1,4 +1,4 @@
-WindowsStandalone
+Android
 SceneListBegin?
 Assets/Escenas/Escena02.unity
 SceneListEnd?
